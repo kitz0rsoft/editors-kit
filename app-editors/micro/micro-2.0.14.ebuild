@@ -113,7 +113,7 @@ EGO_SUM=(
 go-module_set_globals
 
 SRC_URI="https://github.com/zyedidia/micro/tarball/7685fb9770b27ce2ea2ef94a7e6588ec9cb23ae9 -> micro-2.0.14-7685fb9.tar.gz
-https://distfiles.macaronios.org/df/bb/36/dfbb3655e690f5eefabe80042f4aa562d9fecd482297d03bd4814884ebb05b89b7143d0b6731c30cbb7f601efb61b3002b9329083f08eacef6f663f1bfa376a7 -> micro-2.0.14-funtoo-go-bundle-7fb055b80974ebb8558c28999de2782684a64a9f83c447ead70ce38f1a896b116c9b42103b3b427665722e1345317eaf5faa6e179f93122c3d70e79c63837196.tar.gz"
+https://regen.mordor/df/bb/36/dfbb3655e690f5eefabe80042f4aa562d9fecd482297d03bd4814884ebb05b89b7143d0b6731c30cbb7f601efb61b3002b9329083f08eacef6f663f1bfa376a7 -> micro-2.0.14-funtoo-go-bundle-7fb055b80974ebb8558c28999de2782684a64a9f83c447ead70ce38f1a896b116c9b42103b3b427665722e1345317eaf5faa6e179f93122c3d70e79c63837196.tar.gz"
 
 DESCRIPTION="A modern and intuitive terminal-based text editor"
 HOMEPAGE="https://micro-editor.github.io https://github.com/zyedidia/micro"
