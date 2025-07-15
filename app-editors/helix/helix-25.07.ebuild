@@ -6,15 +6,15 @@ inherit cargo
 
 DESCRIPTION="A post-modern modal text editor"
 HOMEPAGE="https://github.com/helix-editor/helix"
-SRC_URI="https://github.com/helix-editor/helix/tarball/60b93dec398b289da148a4716f27843f644122a2 -> helix-25.01.1-60b93de.tar.gz
-https://regen.mordor/bf/c3/5a/bfc35aeb4626dc2ddf826cf87fd3f2a2688d29993670cbc1df7030ae5a1700c6ee32fb07211cbe865c51b54d271537c64f59044996ecb918e4ab713ad6f2aa74 -> helix-25.01.1-funtoo-crates-bundle-5dba7b6dd80178e997100642a7a03edd9ba030faa723c852f51c57b98078d2452e206decb582f6f79bd9905be1f63190c93857f753d05330007e94399c73a419.tar.gz"
+SRC_URI="https://github.com/helix-editor/helix/tarball/fb192d0d0d97df989e9afa7485876251b96c58f4 -> helix-25.07-fb192d0.tar.gz
+https://regen.mordor/a9/d4/f0/a9d4f0f0e17243f1777417b03df4591e6e2a8a7a1cf04d19f181b6a3080e080d310e22c7f76665a8936cfadb52a81ca64d9f40218b22cd4e861eff0608dd61ef -> helix-25.07-funtoo-crates-bundle-0d3c6efae77f63ccb6e04c5e189551e8126c8043d8ed0b3d92f549c53c158fa22d7d25820752e4e709eb8e91654abf26262e34c09ffce1cf441615fdf0755e43.tar.gz"
 
 LICENSE="MPL-2.0"
 SLOT="0"
 KEYWORDS="*"
 IUSE="doc"
 
-S="${WORKDIR}/helix-editor-helix-60b93de"
+S="${WORKDIR}/helix-editor-helix-fb192d0"
 
 src_compile() {
 	export HELIX_DISABLE_AUTO_GRAMMAR_BUILD=1
