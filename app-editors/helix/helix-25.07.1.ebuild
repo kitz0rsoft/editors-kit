@@ -7,7 +7,7 @@ inherit cargo
 DESCRIPTION="A post-modern modal text editor"
 HOMEPAGE="https://github.com/helix-editor/helix"
 SRC_URI="https://github.com/helix-editor/helix/tarball/ac94841019910ff405f31a8668389a06a169e0e5 -> helix-25.07.1-ac94841.tar.gz
-https://regen.mordor/62/42/e2/6242e2fa7ab5bc8637a94e8c8dc91020b74b622613aaa1a5d42c7e8c3d1eab42e7a7a1eb66ef1bb6298a8fcd3258bae208892553a9b84dfc881e2a052f27e774 -> helix-25.07.1-funtoo-crates-bundle-0d3c6efae77f63ccb6e04c5e189551e8126c8043d8ed0b3d92f549c53c158fa22d7d25820752e4e709eb8e91654abf26262e34c09ffce1cf441615fdf0755e43.tar.gz"
+https://regen.mordor/05/af/ca/05afcadf64d4a068ec5a89ea75ee7b16e18fd14be196e7c63bc2e3ca0986da5fb7b90c8a773a478ab89d9d94e6d7b997d7e42c8d2f631e67d4ddabeb81c2f059 -> helix-25.07.1-funtoo-crates-bundle-0d3c6efae77f63ccb6e04c5e189551e8126c8043d8ed0b3d92f549c53c158fa22d7d25820752e4e709eb8e91654abf26262e34c09ffce1cf441615fdf0755e43.tar.gz"
 
 LICENSE="MPL-2.0"
 SLOT="0"
